@@ -1,0 +1,15 @@
+footer {
+  text-align: center;
+  margin-top: 10px;
+  font-family: monospace;
+  color: #015d88;
+  font-size: 15px;
+}
+
+.github-link {
+  font-weight: 800;
+  color: #015d88;
+}
+.github-link:hover {
+  text-decoration: underline;
+}

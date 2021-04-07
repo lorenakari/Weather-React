@@ -1,0 +1,20 @@
+.LocationButton {
+  margin: 0 auto;
+  margin-top: 7px;
+  display: block;
+  border-radius: 20px;
+  border: 1px solid #204051;
+  padding: 7px 13px;
+  box-shadow: 8px 5px 5px #4a6471;
+  background-color: #015d88;
+  color: #fff;
+  font-weight: 500;
+  transition: all 200ms ease-in-out;
+  font-family: "Nunito", sans-serif;
+}
+.LocationButton:hover {
+  cursor: pointer;
+  color: #023b54;
+  background-color: #fff;
+  font-weight: 500;
+}

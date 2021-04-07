@@ -1,6 +1,7 @@
 import React from "react";
 import SkyIcon from "./SkyIcon";
 import CelsiusFahrenheit from "./CelsiusFahrenheit";
+import "./Weather.css";
 
 
 export default function Weather(props) {

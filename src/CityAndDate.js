@@ -1,4 +1,5 @@
 import React from "react";
+import "./CityAndDate.css";
 
 export default function CityAndDate(props) {
   let date = {

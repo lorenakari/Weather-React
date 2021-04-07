@@ -1,0 +1,8 @@
+.CelsiusFahrenheit a {
+  color: #023b54;
+  text-decoration: none;
+  transition: all 200ms ease-in-out;
+}
+.CelsiusFahrenheit a:hover {
+  text-decoration: underline;
+}

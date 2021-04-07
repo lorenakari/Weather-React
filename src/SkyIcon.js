@@ -1,4 +1,5 @@
 import React from "react";
+import "./SkyIcon.css";
 
 export default function SkyIcon(props) {
     return (

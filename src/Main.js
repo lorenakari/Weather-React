@@ -1,6 +1,7 @@
 import React from "react";
 import TopRow from "./TopRow.js";
 import Weather from "./Weather.js";
+import "./Main.css";
 
 export default function Main () {
   let weatherInfo = {

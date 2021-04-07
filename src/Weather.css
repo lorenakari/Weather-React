@@ -1,0 +1,23 @@
+.Weather {
+  margin-top: 30px;
+  display: flex;
+}
+
+.main-weather-info {
+  display: flex;
+  width: 45%;
+}
+
+.icon-description-and-temperature {
+  margin-top: 10px;
+}
+
+ul {
+  margin-top: 12px;
+  font-weight: 600;
+  padding-left: 28px;
+}
+
+li {
+  list-style: none;
+}

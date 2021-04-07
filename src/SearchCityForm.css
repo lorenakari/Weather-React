@@ -1,0 +1,21 @@
+.SearchCityForm {
+  margin-top: 8px;
+  width: 350px;
+}
+
+.search-container {
+  display: flex;
+}
+
+input {
+  width: 90%;
+  border-radius: 20px;
+  border: 1px solid #204051;
+  padding: 10px;
+  box-shadow: 8px 5px 5px #4a6471;
+}
+
+.search-icon {
+  font-size: 18px;
+  margin: 10px 5px 10px 0;
+}

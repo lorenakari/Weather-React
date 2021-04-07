@@ -1,4 +1,5 @@
 import React from "react";
+import "./SearchCityForm.css";
 
 export default function SearchCityForm() {
     return (
